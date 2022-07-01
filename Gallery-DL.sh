@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Gallery-dl
+# @raycast.title Gallery-DL
 # @raycast.mode compact
 #
 # Optional parameters:

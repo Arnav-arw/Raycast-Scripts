@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title YTDL
+# @raycast.title YouTube-DL
 # @raycast.mode compact
 #
 # Optional parameters:
