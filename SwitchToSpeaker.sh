@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Switch To AirPods
+# @raycast.title Switch To Speakers
 # @raycast.mode silent
 # @raycast.author Arnav Singhal
 # @raycast.authorURL https://github.com/arnav-arw
