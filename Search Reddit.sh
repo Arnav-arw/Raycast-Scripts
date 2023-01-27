@@ -21,7 +21,7 @@ if [[ "$1" = "" ]] && [[ "$2" = "" ]]; then
 elif [ "$2" = "" ]; then
 	open "https://www.reddit.com/r/$first_argument"
 elif [ "$1" = "" ]; then
-	open "https://www.reddit.com/r/$second_argument"
+	open "https://www.reddit.com/search/?q=$second_argument"
 else
 	open "https://www.reddit.com/r/$first_argument/search/?q=$second_argument&include_over_18=1"
 fi
