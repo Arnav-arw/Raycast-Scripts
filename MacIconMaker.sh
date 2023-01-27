@@ -7,10 +7,9 @@
 # @raycast.author Arnav Singhal
 # @raycast.authorURL https://github.com/arnav-arw
 
-# @raycast.packageName Reddit
 # @raycast.icon 📇
 
-# @raycast.argument1 { "type": "text", "placeholder": "filename", "optional": false}
+# @raycast.argument1 { "type": "text", "placeholder": "filename", "optional": false }
 
 # Place the icon in the Desktop folder and run the script with the filename as the argument
 
